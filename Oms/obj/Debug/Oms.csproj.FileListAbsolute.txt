@@ -1,0 +1,10 @@
+C:\Users\Дарья\source\repos\Oms\Oms\bin\Debug\Oms.exe.config
+C:\Users\Дарья\source\repos\Oms\Oms\bin\Debug\Oms.exe
+C:\Users\Дарья\source\repos\Oms\Oms\bin\Debug\Oms.pdb
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.csprojAssemblyReference.cache
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.Form1.resources
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.Properties.Resources.resources
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.exe
+C:\Users\Дарья\source\repos\Oms\Oms\obj\Debug\Oms.pdb
